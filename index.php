@@ -16,8 +16,9 @@
 		<div class="sucess">
 		<h1>Bienvenue <?php echo $_SESSION['username']; ?>!</h1>
 		<p>C'est votre tableau de bord.</p>
+		<p>Votre réservation à bien été établi</p>
 		<a href="logout.php">Déconnexion</a> </br>
-		<a href="http://192.168.64.5/Hypnos/utilisateur.html">Retour sur votre site</a>
+		<a href="http://192.168.64.5/Hypnos/clients.html">Retour sur votre site</a>
 		</div>
 	</body>
 </html> 
